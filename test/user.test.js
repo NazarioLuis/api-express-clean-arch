@@ -1,5 +1,5 @@
 var assert = require('assert');
-const interactor = require('../ ').cradle.UserInteractor;
+const interactor = require('../container').cradle.UserInteractor;
 
 describe("User",function () {
     const getFirst = async () => {
