@@ -247,7 +247,7 @@ npm test
 
 ### IEEE
 
-[1] NazarioLuis, "Express + Clean Architecture (Practical Implementation). GitHub repository." GitHub, 2021. [Online]. Available: https://github.com/NazarioLuis/api-express-clean-arch
+[1] N. L. Ayala-Frasnelli and A. D. Ruiz-Diaz-Medina, "Express + Clean Architecture (Practical Implementation). GitHub repository." GitHub, 2021. [Online]. Available: https://github.com/NazarioLuis/api-express-clean-arch
 
 ### BibTeX
 
@@ -256,7 +256,7 @@ npm test
   title     = {Express + Clean Architecture (Practical Implementation). {GitHub} repository.},
   url       = {https://github.com/NazarioLuis/api-express-clean-arch},
   publisher = {GitHub},
-  author    = {{NazarioLuis}},
+  author    = {Ayala-Frasnelli, Nazario Luis and Ruiz-Diaz-Medina, Antonio Davida},
   year      = {2021}
 }
 ```
