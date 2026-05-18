@@ -242,3 +242,21 @@ npm test
 5. Add interactor extending `BaseInteractor`.
 6. Add controller + route in `api/controllers` and `api/routes`.
 7. Restart app (modules are auto-discovered and registered).
+
+## How to cite this repository
+
+### IEEE
+
+[1] NazarioLuis, "Express + Clean Architecture (Practical Implementation). GitHub repository." GitHub, 2021. [Online]. Available: https://github.com/NazarioLuis/api-express-clean-arch
+
+### BibTeX
+
+```bibtex
+@misc{nazarioluis_express_clean_architecture_2021,
+  title     = {Express + Clean Architecture (Practical Implementation). {GitHub} repository.},
+  url       = {https://github.com/NazarioLuis/api-express-clean-arch},
+  publisher = {GitHub},
+  author    = {{NazarioLuis}},
+  year      = {2021}
+}
+```
